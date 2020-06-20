@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.huawei.hms:device:4.0.3.301@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../gradle-6.0/caches/transforms-2/files-2.1/f89e18e9b6928ffea44e8ad6000e6395/device-4.0.3.301/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../gradle-6.0/caches/transforms-2/files-2.1/f89e18e9b6928ffea44e8ad6000e6395/device-4.0.3.301/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../gradle-6.0/caches/modules-2/files-2.1/com.huawei.hms/device/4.0.3.301/da39a3ee5e6b4b0d3255bfef95601890afd80709/device-4.0.3.301-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../gradle-6.0/caches/modules-2/files-2.1/com.huawei.hms/device/4.0.3.301/da39a3ee5e6b4b0d3255bfef95601890afd80709/device-4.0.3.301-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

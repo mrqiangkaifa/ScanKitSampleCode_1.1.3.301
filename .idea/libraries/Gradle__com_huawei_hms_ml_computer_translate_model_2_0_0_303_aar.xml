@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.huawei.hms:ml-computer-translate-model:2.0.0.303@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../gradle-6.0/caches/transforms-2/files-2.1/df4a8c18045040e8f1a16c0e9d56f8a3/ml-computer-translate-model-2.0.0.303/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../gradle-6.0/caches/transforms-2/files-2.1/df4a8c18045040e8f1a16c0e9d56f8a3/ml-computer-translate-model-2.0.0.303/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../gradle-6.0/caches/modules-2/files-2.1/com.huawei.hms/ml-computer-translate-model/2.0.0.303/da39a3ee5e6b4b0d3255bfef95601890afd80709/ml-computer-translate-model-2.0.0.303-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../gradle-6.0/caches/modules-2/files-2.1/com.huawei.hms/ml-computer-translate-model/2.0.0.303/da39a3ee5e6b4b0d3255bfef95601890afd80709/ml-computer-translate-model-2.0.0.303-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
